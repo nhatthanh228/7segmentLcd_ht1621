@@ -1,0 +1,8 @@
+segmentLcd	KEYWORD1
+begin	KEYWORD2
+clear	KEYWORD2
+print	KEYWORD2
+printFloat	KEYWORD2
+printTime	KEYWORD2
+printC	KEYWORD2
+printF	KEYWORD2
